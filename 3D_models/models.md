@@ -1,4 +1,4 @@
-# Cuban link Chain
+# CubanChain
 - Model Description: A 3D printed chain with cuban links
 - Model Link 1: http://makewake.ch
 - Model Link text 1: MakeWake
