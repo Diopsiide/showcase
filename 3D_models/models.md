@@ -17,7 +17,7 @@
 - Model Link text 3: BeRolled
 
 # SupportPourPetitOrdi
-- Model Description: Wall stand for little computers
+- Model Description: 3D printed Wall stand for little computers
 - Model Link 1: http://makewake.ch
 - Model Link text 1: MakeWake
 - Model Link 2: volkseco.ch
