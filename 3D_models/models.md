@@ -1,5 +1,5 @@
 # SupportBarreLed
-- Model Description: Stand for car led bars on roof
+- Model Description: 3D printed Stand for car led bars on roof
 - Model Link 1: http://makewake.ch
 - Model Link text 1: MakeWake
 - Model Link 2: volkseco.ch
